@@ -1,5 +1,5 @@
 # Youtube_Comment_Sentimen_Analisis
- Menganalisis sentimen komentar pada video di youtube, anda bisa mencoba progam jadi [di sini](https://huggingface.co/spaces/mabzak/Youtube-Comment-Sentimen-Analisis).
+ Menganalisis sentimen komentar pada video di youtube, anda bisa mencobanya [di sini](https://huggingface.co/spaces/mabzak/Youtube-Comment-Sentimen-Analisis).
  saat ini program hanya mendukung bahasa indonesia karna model yang saya gunakan dikhususkan untuk bahasa indonesia.
  
 ## Cara Penggunaan
